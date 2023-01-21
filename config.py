@@ -1,1 +1,1 @@
-TOKEN = "5003679344:AAFTeWzI0_6sKn9tdDnTyHjL5VErAocW0Gg"
+TOKEN = "Your_TG_Bot_tokem_here"
